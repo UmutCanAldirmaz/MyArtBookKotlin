@@ -1,0 +1,8 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ArtBookKotlin" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="Theme.ArtBookKotlin" parent="Base.Theme.ArtBookKotlin" />
+</resources>
